@@ -142,5 +142,26 @@
     "experience": "The course provided a solid foundation in electronics through structured lessons and practical examples, helping me connect theory with real-world applications.",
     "impact": "This certification enhanced my electronics knowledge and prepared me for advanced electrical engineering subjects, robotics, automation, and hardware-based projects."
   }
+},
+{
+  "title": "Introduction to Generative AI",
+  "issuer": "Google Cloud & Coursera",
+  "date": "2026-06-20",
+  "image": "certificates/Introduction_to_Generative_AI.png",
+  "description": "Successfully completed the Introduction to Generative AI course authorized by Google Cloud and offered through Coursera.",
+  "skills": [
+    "Generative AI",
+    "Artificial Intelligence",
+    "Large Language Models",
+    "Machine Learning Fundamentals",
+    "AI Applications"
+  ],
+  "verifyUrl": "https://coursera.org/verify/IJKOVN8KH6YV",
+  "story": {
+    "why": "I enrolled in this course to understand the fundamentals of Generative AI and explore how AI technologies are transforming industries and everyday life.",
+    "learned": "Core concepts of Generative AI, Large Language Models (LLMs), AI applications, machine learning fundamentals, and responsible AI practices.",
+    "experience": "The course provided a beginner-friendly introduction to Generative AI through real-world examples and practical insights from Google Cloud experts.",
+    "impact": "This certification strengthened my understanding of modern AI technologies and inspired me to explore AI-powered solutions alongside my Electrical Engineering studies."
+  }
 }
 ]
